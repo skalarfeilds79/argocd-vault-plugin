@@ -15,7 +15,7 @@ require (
 	github.com/IBM/go-sdk-core/v5 v5.7.0
 	github.com/IBM/secrets-manager-go-sdk v1.0.26
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
-	github.com/aws/aws-sdk-go v1.40.58
+	github.com/aws/aws-sdk-go v1.42.53
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/go-logr/logr v1.1.0 // indirect
 	github.com/go-openapi/errors v0.20.1 // indirect
@@ -38,7 +38,7 @@ require (
 	github.com/spf13/viper v1.9.0
 	go.mongodb.org/mongo-driver v1.7.3 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/net v0.0.0-20211007125505-59d4e928ea9d
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1 // indirect
 	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
