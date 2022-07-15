@@ -22,15 +22,14 @@ require (
 	github.com/go-playground/universal-translator v0.18.0 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/golang-jwt/jwt/v4 v4.1.0 // indirect
-	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.1.1
-	github.com/hashicorp/go-hclog v0.16.1
+	github.com/hashicorp/go-hclog v0.16.2
 	github.com/hashicorp/hcl v1.0.1-vault-3 // indirect
 	github.com/hashicorp/vault v1.7.5
 	github.com/hashicorp/vault-plugin-secrets-kv v0.8.0
 	github.com/hashicorp/vault/api v1.1.1
-	github.com/hashicorp/vault/sdk v0.2.1
+	github.com/hashicorp/vault/sdk v0.5.3
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
@@ -45,7 +44,6 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/api v0.58.0 // indirect
 	google.golang.org/genproto v0.0.0-20211007155348-82e027067bd4
-	google.golang.org/grpc v1.41.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
