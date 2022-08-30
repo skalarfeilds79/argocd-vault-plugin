@@ -25,7 +25,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.1.1
-	github.com/hashicorp/go-hclog v0.16.1
+	github.com/hashicorp/go-hclog v1.3.0
 	github.com/hashicorp/hcl v1.0.1-vault-3 // indirect
 	github.com/hashicorp/vault v1.7.5
 	github.com/hashicorp/vault-plugin-secrets-kv v0.8.0
@@ -40,7 +40,6 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/net v0.0.0-20211007125505-59d4e928ea9d
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1 // indirect
-	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/api v0.58.0 // indirect
